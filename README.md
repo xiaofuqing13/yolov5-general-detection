@@ -1,5 +1,8 @@
 # YOLOv5 通用目标检测框架
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![YOLOv5](https://img.shields.io/badge/YOLOv5-Ultralytics-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 YOLOv5 是由 Ultralytics 开发的实时目标检测框架，本仓库基于 YOLOv5 v7.0 版本，支持在自定义数据集上训练目标检测模型。框架支持多种模型规格（n/s/m/l/x），提供从数据预处理到模型部署的完整流程。
 
 ## 痛点与目的
