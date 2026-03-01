@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![YOLOv5](https://img.shields.io/badge/YOLOv5-Ultralytics-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
-
 YOLOv5 是由 Ultralytics 开发的实时目标检测框架，本仓库基于 YOLOv5 v7.0 版本，支持在自定义数据集上训练目标检测模型。框架支持多种模型规格（n/s/m/l/x），提供从数据预处理到模型部署的完整流程。
 
 ## 痛点与目的
@@ -12,8 +11,6 @@ YOLOv5 是由 Ultralytics 开发的实时目标检测框架，本仓库基于 YO
 - **效果**：在 COCO 数据集上达到 SOTA 级别的检测精度和速度平衡
 
 ## 检测效果
-
-![检测效果](images/detection_result.png)
 
 ## 核心功能
 
