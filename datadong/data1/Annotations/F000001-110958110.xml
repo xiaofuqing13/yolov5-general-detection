@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data300</folder>
+	<filename>F000001-110958110.jpg</filename>
+	<path>E:\datasetsW\data300\F000001-110958110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>279</ymin>
+			<xmax>450</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data500</folder>
+	<filename>F000118-083452702.jpg</filename>
+	<path>I:\&#32418;&#22806;&#23454;&#39564;&#25968;&#25454;\500&#25913;\data500\F000118-083452702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>200</ymin>
+			<xmax>349</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

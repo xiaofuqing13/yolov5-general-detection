@@ -1,0 +1,7 @@
+train: /Users/xiaofuqing/Desktop/yolov5-7.0/datadong/data1/train.txt # train images (relative to 'path') 118287 images
+val:   /Users/xiaofuqing/Desktop/yolov5-7.0/datadong/data1/val.txt # train images (relative to 'path') 5000 images
+test:  /Users/xiaofuqing/Desktop/yolov5-7.0/datadong/data1/train.txt # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+nc: 3   # number of classes
+names: ['target', 'island', 'point']
+

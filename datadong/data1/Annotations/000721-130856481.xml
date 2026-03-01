@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataselect</folder>
+	<filename>000721-130856481.jpg</filename>
+	<path>E:\data\dataselect\000721-130856481.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>point</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>338</ymin>
+			<xmax>505</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>F002835-090733194.jpg</filename>
+	<path>D:\data\jizai\images\F002835-090733194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>177</ymin>
+			<xmax>434</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

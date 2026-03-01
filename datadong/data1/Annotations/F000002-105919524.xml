@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>F000002-105919524.jpg</filename>
+	<path>H:\&#27605;&#19994;&#35770;&#25991;\&#25968;&#25454;&#38598;\&#21407;&#22987;&#25968;&#25454;&#38598;\600+680&#34701;&#21512;&#25968;&#25454;&#38598;\images\F000002-105919524.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>346</ymin>
+			<xmax>633</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

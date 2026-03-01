@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgsum</folder>
+	<filename>F033684-123032145.jpg</filename>
+	<path>H:\imgsum\F033684-123032145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>island</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>191</ymin>
+			<xmax>372</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>difficult</folder>
+	<filename>F030936-101821419.jpg</filename>
+	<path>D:/gyl/yolov5300/data/images/F030936-101821419.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>point</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>247</ymin>
+			<xmax>234</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
